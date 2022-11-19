@@ -6,7 +6,7 @@
 - 📫 Você pode me achar em: marcosalexandreqb@gmail.com
 
 
-https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Google_Sheets_logo_%282014-2020%29.svg/1200px-Google_Sheets_logo_%282014-2020%29.svg.png
+
 **Se conect comigo:**
 
 <div>
