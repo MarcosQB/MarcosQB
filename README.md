@@ -1,13 +1,13 @@
-# Olá eu sou o Marcos Alexandre 👋
+# Olá, eu sou o Marcos Alexandre! 👋
 
 - 🔭 Hoje eu trabalho com Análise de Dados
 - 🌱 Atualmente estou estudando Ciência de Dados 
-- 💬 Me pergunte sobre Google Sheets, Looker Studio, e Google Apps Script 🧙🏼‍♂️👨🏼‍🎨
+- 💬 Me pergunte sobre Google Sheets, Looker Studio e Google Apps Script 🧙🏼‍♂️👨🏼‍🎨
 - 📫 Você pode me achar em: marcosalexandreqb@gmail.com
 
 
 
-**Se conect comigo:**
+**Se conecte comigo:**
 
 <div>
 <a href="https://www.linkedin.com/in/marcos-alexandre-souza-lamb/">
@@ -16,7 +16,7 @@
 
 
 
-#### **Ferramentas e Linguagens**
+#### **Ferramentas e Linguagens:**
 
 
 
