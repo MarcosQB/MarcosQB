@@ -23,3 +23,5 @@
 
 ### **Confira meus projetos** ⬇️
 [Extração, Transformação e carregamento dos dados da API do Google Analytics utilizando Python](https://github.com/MarcosQB/ETL-with-GoogleAnalyticsAPI/blob/main/README.md)
+  
+[Integração do Google Planilhas com o Monday.com utilizando JavaScript](https://github.com/MarcosQB/-Integrating-Google-Sheets-with-Monday.com/blob/main/README.md)
