@@ -1,6 +1,6 @@
 # Olá, eu sou o Marcos Alexandre! 👋
 
-- 🔭 Hoje eu trabalho com Análise de Dados
+- 🔭 Hoje eu trabalho como Analytics Enginner
 - 🌱 Atualmente estou estudando Engenharia e Ciência de Dados 
 - 💬 Me pergunte sobre Engenharia de dados e Data Visualization🧙🏼‍♂️👨🏼‍🎨
 - 📫 Você pode me achar em: marcosalexandreqb@gmail.com
